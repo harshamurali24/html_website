@@ -1,0 +1,61 @@
+h1{color: brown;
+ background-color: bisque;}
+ ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cadetblue;
+   
+}
+li{
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: brown;
+}
+#l1{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    float: left;
+    
+}
+#s1{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+
+ p{
+    background-color: gray;
+    color: white;
+    background-image:url(../imgs/rose.jpeg);
+    background-repeat: repeat-y;
+    background-position: left center;
+    margin-right: 200px;
+
+   background-image: linear-gradient(brown,yellow,green)   ;
+   background-image: linear-gradient(to right,black,white,blue);
+   background-image: linear-gradient(to bottom,yellow,green,red);
+   background-image: repeating-linear-gradient(green,orange,purple);
+   background-image: radial-gradient(green,navy,maroon);
+   background-image: conic-gradient(green,navy,maroon);
+   background-image: linear-gradient(brown,yellow,green)   ;
+}

@@ -1,0 +1,14 @@
+tr :hover{
+    background-color:brown;
+}
+#td1{
+  font-size:40px; text-align:center;color:#fff;
+   background-color: black;
+}
+#td0{font-size:40px; 
+    text-align:center;}
+#tdw{background-color:black;}
+#td1:hover,#tdw:hover{
+    background-color:brown;
+    
+}

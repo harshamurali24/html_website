@@ -1,0 +1,17 @@
+.button{
+    background-color:blue;
+    border:5px;
+    color:white;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: large;
+    margin: 5px 3px;
+    cursor:pointer;
+}
+.button2{background-color: red;}
+.button3{background-color: Orange;}
+.button4{background-color: aqua;}
+.button5{background-color:violet;}
+

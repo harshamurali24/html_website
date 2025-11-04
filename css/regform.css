@@ -1,0 +1,14 @@
+h1{font-weight: bold;}
+#p1{font-style: italic;}
+#b1{text-align:justify;
+    background-color: bisque;
+    padding: 20px;
+}
+#s1{padding: 10px;
+    background-color: green;
+    color: white;}
+#sn1{font-size: larger;
+ font-weight: bold;}
+ #f1{background-color: chocolate;
+    }
+ 

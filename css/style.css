@@ -1,0 +1,12 @@
+
+table{
+    width:100%;
+    background-color: cyan;
+    border: 50px;
+    padding:200px;
+    }
+table{    
+  border-color: var(#ff6347);
+border-spacing: 10px;
+}
+#d1{background-color: aliceblue;}

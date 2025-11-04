@@ -1,0 +1,32 @@
+
+th{
+     background-color:grey;
+}
+     td,th{
+     width:150px;
+     text-align:center;
+     border:1px soild white;
+     padding:5px;
+     }
+.g{
+     border-right:hidden;
+}
+.gf{
+     border-collapse:separate;
+     border-spacing:0 15px;
+}
+#t1{
+     border-collapse:collapse;
+     border-spacing:0 15px;
+     text-align: center;
+    border: 1px;
+    width: 50%;
+   }
+#t2{background-color: rgb(200, 197, 197);
+     padding-left: 15%;}
+#t3{background-color: cornflowerblue;}
+#t4{background-color: lawngreen;}
+#t5{background-color: pink;}
+#t6{background-color: fuchsia;}
+#t7{background-color: aquamarine;}
+#t8{background-color: coral;}
